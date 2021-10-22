@@ -1,6 +1,8 @@
 # Resolvendo "enq: TX - allocate ITL entry" com uma abordagem alternativa
 Este repositório foi utilizado para a escrita do artigo sobre como resolver o evento de contenção de allocate ITL entry do Oracle de uma forma alternativa.
 
+O artigo pode ser encontrado na seguinte URL: https://www.fnbrandao.com.br/blog/2021/10/resolvendo-enq-tx-allocate-itl-entry-com-uma-abordagem-alternativa/
+
 ## Requisitos
 Rodar um Oracle com o seguinte comando:
 ```
